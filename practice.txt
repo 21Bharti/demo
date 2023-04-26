@@ -1,0 +1,1 @@
+print("The difference between", n1, "and", n2, "is", difference)
